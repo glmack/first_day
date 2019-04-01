@@ -1,5 +1,8 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             Lee Mackey
+Email:            glmack@gmail.com
+Favorite Place:   home
+Favorite Food:    wood-fired pizza
+Astrology sign:   Aquarius
+Favorite language:Python
+
+
